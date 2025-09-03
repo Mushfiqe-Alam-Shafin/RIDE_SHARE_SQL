@@ -1,0 +1,51 @@
+driver_id,name,vehicle_type,rating,city
+1,Driver_1,Car,3.05,Los Angeles
+2,Driver_2,Bike,3.45,New York
+3,Driver_3,Car,4.18,New York
+4,Driver_4,Car,3.19,Chicago
+5,Driver_5,Car,4.12,Houston
+6,Driver_6,SUV,3.44,Houston
+7,Driver_7,Van,4.62,New York
+8,Driver_8,Bike,4.4,Los Angeles
+9,Driver_9,Van,3.31,Los Angeles
+10,Driver_10,Car,3.19,New York
+11,Driver_11,Van,4.69,Houston
+12,Driver_12,Van,4.61,San Francisco
+13,Driver_13,Car,4.95,San Francisco
+14,Driver_14,Car,4.1,Houston
+15,Driver_15,Van,4.15,New York
+16,Driver_16,Car,4.32,Los Angeles
+17,Driver_17,Car,4.71,New York
+18,Driver_18,SUV,3.56,Los Angeles
+19,Driver_19,Bike,3.74,Chicago
+20,Driver_20,Van,4.4,New York
+21,Driver_21,Bike,4.07,Chicago
+22,Driver_22,Bike,3.92,Los Angeles
+23,Driver_23,Bike,4.37,New York
+24,Driver_24,Bike,4.64,Los Angeles
+25,Driver_25,SUV,3.54,Chicago
+26,Driver_26,Van,3.43,San Francisco
+27,Driver_27,SUV,4.77,San Francisco
+28,Driver_28,Bike,3.53,Chicago
+29,Driver_29,Van,4.49,San Francisco
+30,Driver_30,SUV,3.72,Chicago
+31,Driver_31,SUV,3.18,New York
+32,Driver_32,Car,3.31,Chicago
+33,Driver_33,SUV,4.19,San Francisco
+34,Driver_34,SUV,4.19,San Francisco
+35,Driver_35,Van,4.94,New York
+36,Driver_36,Car,4.36,Houston
+37,Driver_37,Van,4.54,Los Angeles
+38,Driver_38,Car,3.59,Chicago
+39,Driver_39,SUV,3.01,Los Angeles
+40,Driver_40,Bike,4.02,New York
+41,Driver_41,Van,4.68,Houston
+42,Driver_42,Bike,3.31,Chicago
+43,Driver_43,Car,4.2,San Francisco
+44,Driver_44,Car,3.22,Los Angeles
+45,Driver_45,Van,3.48,Chicago
+46,Driver_46,Car,3.17,San Francisco
+47,Driver_47,Car,4.96,Houston
+48,Driver_48,Bike,3.26,San Francisco
+49,Driver_49,Bike,3.53,Houston
+50,Driver_50,SUV,4.93,Houston

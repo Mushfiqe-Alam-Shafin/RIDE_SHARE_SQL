@@ -1,0 +1,201 @@
+rider_id,name,signup_date,city
+1,Rider_1,2024-02-03,Chicago
+2,Rider_2,2023-12-31,Los Angeles
+3,Rider_3,2022-03-28,Los Angeles
+4,Rider_4,2022-06-16,Houston
+5,Rider_5,2022-07-13,New York
+6,Rider_6,2021-05-22,Chicago
+7,Rider_7,2020-05-11,Los Angeles
+8,Rider_8,2020-02-13,Houston
+9,Rider_9,2023-02-08,Chicago
+10,Rider_10,2023-04-20,Chicago
+11,Rider_11,2020-01-15,New York
+12,Rider_12,2023-12-20,New York
+13,Rider_13,2021-04-13,New York
+14,Rider_14,2020-03-05,Los Angeles
+15,Rider_15,2020-05-25,Houston
+16,Rider_16,2021-05-02,Los Angeles
+17,Rider_17,2023-10-02,San Francisco
+18,Rider_18,2021-03-14,Houston
+19,Rider_19,2020-09-27,Houston
+20,Rider_20,2023-03-26,San Francisco
+21,Rider_21,2021-05-12,San Francisco
+22,Rider_22,2022-04-13,Chicago
+23,Rider_23,2020-07-12,New York
+24,Rider_24,2023-09-11,San Francisco
+25,Rider_25,2021-12-26,San Francisco
+26,Rider_26,2022-04-21,San Francisco
+27,Rider_27,2024-02-02,New York
+28,Rider_28,2023-10-11,New York
+29,Rider_29,2020-05-04,San Francisco
+30,Rider_30,2024-01-31,Los Angeles
+31,Rider_31,2020-08-11,Chicago
+32,Rider_32,2021-01-27,Chicago
+33,Rider_33,2023-01-03,San Francisco
+34,Rider_34,2020-10-14,San Francisco
+35,Rider_35,2021-01-10,Los Angeles
+36,Rider_36,2022-08-05,Chicago
+37,Rider_37,2020-06-03,San Francisco
+38,Rider_38,2023-02-01,New York
+39,Rider_39,2020-04-13,Houston
+40,Rider_40,2020-01-31,New York
+41,Rider_41,2021-04-29,Chicago
+42,Rider_42,2022-04-12,San Francisco
+43,Rider_43,2022-09-12,Chicago
+44,Rider_44,2022-04-01,New York
+45,Rider_45,2020-12-03,San Francisco
+46,Rider_46,2020-01-05,San Francisco
+47,Rider_47,2021-06-27,San Francisco
+48,Rider_48,2021-08-07,San Francisco
+49,Rider_49,2023-11-27,Houston
+50,Rider_50,2023-09-17,San Francisco
+51,Rider_51,2020-11-13,Chicago
+52,Rider_52,2021-08-30,Chicago
+53,Rider_53,2020-04-29,Houston
+54,Rider_54,2023-01-15,New York
+55,Rider_55,2021-10-04,New York
+56,Rider_56,2020-04-12,Houston
+57,Rider_57,2022-09-03,Houston
+58,Rider_58,2022-12-23,Chicago
+59,Rider_59,2020-04-26,Houston
+60,Rider_60,2020-06-13,Chicago
+61,Rider_61,2020-05-20,Houston
+62,Rider_62,2020-05-19,Chicago
+63,Rider_63,2022-04-06,New York
+64,Rider_64,2023-03-12,Chicago
+65,Rider_65,2023-03-31,Houston
+66,Rider_66,2020-03-22,Houston
+67,Rider_67,2020-06-16,San Francisco
+68,Rider_68,2023-09-08,Houston
+69,Rider_69,2023-03-03,Houston
+70,Rider_70,2021-10-09,Los Angeles
+71,Rider_71,2021-02-22,Los Angeles
+72,Rider_72,2021-05-03,Los Angeles
+73,Rider_73,2022-03-21,Chicago
+74,Rider_74,2023-10-07,Los Angeles
+75,Rider_75,2022-07-25,Los Angeles
+76,Rider_76,2020-05-28,New York
+77,Rider_77,2022-07-27,Houston
+78,Rider_78,2023-02-27,New York
+79,Rider_79,2020-05-30,Houston
+80,Rider_80,2021-03-12,Houston
+81,Rider_81,2021-06-27,Chicago
+82,Rider_82,2021-12-15,New York
+83,Rider_83,2021-05-15,Los Angeles
+84,Rider_84,2021-08-06,Chicago
+85,Rider_85,2022-06-16,Houston
+86,Rider_86,2023-12-11,Los Angeles
+87,Rider_87,2023-06-06,Houston
+88,Rider_88,2020-01-17,Houston
+89,Rider_89,2021-09-05,New York
+90,Rider_90,2020-10-02,Los Angeles
+91,Rider_91,2020-08-24,New York
+92,Rider_92,2023-02-07,Chicago
+93,Rider_93,2021-07-11,Los Angeles
+94,Rider_94,2023-05-23,Chicago
+95,Rider_95,2024-01-09,Los Angeles
+96,Rider_96,2021-02-20,Los Angeles
+97,Rider_97,2022-11-01,San Francisco
+98,Rider_98,2021-05-29,New York
+99,Rider_99,2020-07-08,San Francisco
+100,Rider_100,2021-07-20,New York
+101,Rider_101,2020-01-08,Los Angeles
+102,Rider_102,2020-09-24,Los Angeles
+103,Rider_103,2020-11-26,San Francisco
+104,Rider_104,2023-02-03,San Francisco
+105,Rider_105,2023-02-22,New York
+106,Rider_106,2020-08-17,New York
+107,Rider_107,2023-11-16,Chicago
+108,Rider_108,2023-01-22,New York
+109,Rider_109,2022-01-26,Houston
+110,Rider_110,2023-02-05,Chicago
+111,Rider_111,2022-05-30,Chicago
+112,Rider_112,2020-03-26,Los Angeles
+113,Rider_113,2022-01-16,New York
+114,Rider_114,2022-01-02,Chicago
+115,Rider_115,2023-10-28,Chicago
+116,Rider_116,2023-09-27,New York
+117,Rider_117,2021-12-25,Houston
+118,Rider_118,2022-04-12,Houston
+119,Rider_119,2020-11-12,Chicago
+120,Rider_120,2020-11-28,Chicago
+121,Rider_121,2022-04-24,New York
+122,Rider_122,2021-01-02,Los Angeles
+123,Rider_123,2022-04-23,Chicago
+124,Rider_124,2021-06-30,Chicago
+125,Rider_125,2023-12-07,New York
+126,Rider_126,2022-02-22,New York
+127,Rider_127,2022-08-21,Chicago
+128,Rider_128,2021-02-12,San Francisco
+129,Rider_129,2021-12-17,Los Angeles
+130,Rider_130,2021-04-11,Chicago
+131,Rider_131,2020-02-18,Chicago
+132,Rider_132,2022-03-27,Los Angeles
+133,Rider_133,2021-07-24,New York
+134,Rider_134,2021-07-25,Los Angeles
+135,Rider_135,2023-08-06,Houston
+136,Rider_136,2022-03-29,Houston
+137,Rider_137,2021-11-09,New York
+138,Rider_138,2020-08-24,Los Angeles
+139,Rider_139,2020-12-31,Houston
+140,Rider_140,2021-06-27,New York
+141,Rider_141,2020-08-10,Houston
+142,Rider_142,2022-06-08,Los Angeles
+143,Rider_143,2024-02-01,Los Angeles
+144,Rider_144,2022-06-12,Houston
+145,Rider_145,2022-11-13,New York
+146,Rider_146,2022-02-27,Houston
+147,Rider_147,2021-01-24,Los Angeles
+148,Rider_148,2020-03-31,San Francisco
+149,Rider_149,2020-01-04,Houston
+150,Rider_150,2023-01-07,Chicago
+151,Rider_151,2022-01-15,San Francisco
+152,Rider_152,2020-05-23,Los Angeles
+153,Rider_153,2023-06-30,Los Angeles
+154,Rider_154,2023-09-20,New York
+155,Rider_155,2024-01-14,Los Angeles
+156,Rider_156,2022-11-04,Los Angeles
+157,Rider_157,2023-09-27,San Francisco
+158,Rider_158,2021-10-30,San Francisco
+159,Rider_159,2023-11-28,Los Angeles
+160,Rider_160,2023-02-09,Chicago
+161,Rider_161,2021-01-27,San Francisco
+162,Rider_162,2023-09-23,San Francisco
+163,Rider_163,2023-10-19,Chicago
+164,Rider_164,2023-06-14,Houston
+165,Rider_165,2021-09-08,San Francisco
+166,Rider_166,2023-01-27,New York
+167,Rider_167,2021-09-14,Los Angeles
+168,Rider_168,2021-03-06,San Francisco
+169,Rider_169,2023-04-02,Houston
+170,Rider_170,2023-09-02,Los Angeles
+171,Rider_171,2022-08-10,San Francisco
+172,Rider_172,2022-06-24,Chicago
+173,Rider_173,2022-11-12,San Francisco
+174,Rider_174,2020-12-13,New York
+175,Rider_175,2021-08-04,Houston
+176,Rider_176,2023-09-21,Houston
+177,Rider_177,2021-11-17,New York
+178,Rider_178,2021-04-26,Los Angeles
+179,Rider_179,2021-04-05,Chicago
+180,Rider_180,2020-10-28,New York
+181,Rider_181,2020-04-04,Chicago
+182,Rider_182,2022-08-31,Houston
+183,Rider_183,2020-05-29,San Francisco
+184,Rider_184,2022-04-28,Houston
+185,Rider_185,2021-02-02,San Francisco
+186,Rider_186,2022-10-09,San Francisco
+187,Rider_187,2021-05-14,Chicago
+188,Rider_188,2023-09-05,New York
+189,Rider_189,2020-08-06,San Francisco
+190,Rider_190,2021-03-24,Chicago
+191,Rider_191,2023-11-26,Houston
+192,Rider_192,2022-08-09,New York
+193,Rider_193,2023-02-15,Chicago
+194,Rider_194,2020-09-05,San Francisco
+195,Rider_195,2020-09-30,San Francisco
+196,Rider_196,2023-09-29,Houston
+197,Rider_197,2023-02-18,Houston
+198,Rider_198,2021-10-11,San Francisco
+199,Rider_199,2023-06-08,Houston
+200,Rider_200,2022-05-23,Houston
